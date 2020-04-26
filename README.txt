@@ -2,3 +2,5 @@ Artifical vision project using OpenCV libraries. This is just the source code, s
 
 The following project consists on a Aruco detector. The camera detects the Aruco and draws a square on it. 
 The system generally works well altough you must place correctly the Aruco just in front of the camera, otherwise the camera won´t detect the Aruco.
+
+To find out more about this project please visit the following link https://www.youtube.com/watch?v=BExaHWlH20w
